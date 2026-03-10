@@ -35,3 +35,9 @@ Port: 443
 
 ## Learning Outcome
 This lab helped me understand how SOC analysts monitor systems, detect suspicious behavior, and investigate alerts in a real-world security monitoring environment.
+
+## Lab Architecture
+![Lab Topology](architecture/LAB_TOPOLOGY.png)
+
+##Logs
+![Brute Force Logs](screenshots/BruteForce_Logs.png)

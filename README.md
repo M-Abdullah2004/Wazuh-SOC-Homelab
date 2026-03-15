@@ -59,4 +59,4 @@ Port: 443
 This project provided hands-on experience with building and operating a SOC monitoring environment using Wazuh. It helped demonstrate how SOC analysts monitor endpoints, detect suspicious activity, analyze alerts, and implement automated response mechanisms within a real-world security monitoring workflow.
 
 ## Project Documentation
-Detailed lab reports, screenshots, and configurations used in this project can be found in the **Project Documentation** folder within this repository.
+Detailed lab reports, screenshots, and configurations used in this project can be found in the **Project Documentations** folder within this repository.

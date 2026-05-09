@@ -6,7 +6,7 @@ A hands-on, multi-phase Security Operations Center (SOC) home lab built using Wa
 
 # 📋 Table of Contents
 
-- [Overview](#overview)
+- [Overview]
 - [Objectives](#objectives)
 - [Lab Architecture](#lab-architecture)
 - [Technologies Used](#technologies-used)

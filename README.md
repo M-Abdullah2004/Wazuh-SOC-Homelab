@@ -4,21 +4,6 @@ A hands-on, multi-phase Security Operations Center (SOC) home lab built using Wa
 
 ---
 
-# 📋 Table of Contents
-
-- [Overview]
-- [Objectives](#objectives)
-- [Lab Architecture](#lab-architecture)
-- [Technologies Used](#technologies-used)
-- [Phase 1 — Core SIEM Deployment](#phase-1--core-siem-deployment)
-- [Phase 2 — Detection & Automated Response](#phase-2--detection--automated-response)
-- [Phase 3 — Network Monitoring & Threat Intelligence](#phase-3--network-monitoring--threat-intelligence)
-- [Phase 4 — pfSense Virtual Firewall](#phase-4--pfsense-virtual-firewall)
-- [Skills Demonstrated](#skills-demonstrated)
-- [Conclusion](#conclusion)
-
----
-
 # 📖 Overview
 
 This project documents the step-by-step creation of a functional SOC (Security Operations Center) home lab using Wazuh as the central SIEM platform. The environment was developed across multiple phases, gradually adding new layers of security monitoring and defensive capabilities.
